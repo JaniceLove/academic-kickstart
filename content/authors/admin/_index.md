@@ -22,20 +22,18 @@ bio:
 
 interests:
 - Genetics
-- Science education and communication
+- Science education
+- Science communication
 - Data science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Genetics
+    institution: University of Notre Dame
+    year: 2019
+  - course: BA in Biology
+    institution: University of St. Thomas, Houston
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
