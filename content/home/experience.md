@@ -39,6 +39,20 @@ date_format = "Jan 2006"
   * edit
   * edit
   * edit
+  
+[[experience]]
+  title = "ICU Critical Care Technician"
+  company = "Houston Veterinary Services Inc"
+  #company_url = "http://www.bcm.edu"
+  location = "Texas"
+  date_start = "2009-05-15"
+  date_end = "2013-01-03"
+  description = """
+  Responsibilities include:
+  
+  * edit
+  * edit
+  * edit
   """
 
 
