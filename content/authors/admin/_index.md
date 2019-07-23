@@ -60,9 +60,7 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
 ---
 
 Janice Love received her MS in Biological sciences from the University of Notre Dame in 2019 and her BA in Biology from the Unveristy of St. Thomas, Houston. This website is currently undergoing redesign. 
