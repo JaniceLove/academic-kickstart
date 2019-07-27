@@ -21,9 +21,14 @@ subtitle = ""
   #description = "90%" 
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
+  icon = "html5"
+  icon_pack = "fab"
+  name = "HTML"
   #description = "10%"
 
+[[feature]]
+  icon = "css3"
+  icon_pack = "fab"
+  name = "CSS"
+  #description = "10%"
 +++
