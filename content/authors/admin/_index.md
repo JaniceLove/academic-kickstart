@@ -22,9 +22,10 @@ bio:
 
 interests:
 - Genetics
+- Data science
 - Science education
 - Science communication
-- Data science
+
 
 education:
   courses:
