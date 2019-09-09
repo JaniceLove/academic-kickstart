@@ -34,11 +34,7 @@ date_format = "Jan 2006"
   date_start = "2012-10-01"
   date_end = "2015-07-31"
   description = """
-  Responsibilities include:
-  
-  * edit
-  * edit
-  * edit
+ 
   
 [[experience]]
   title = "ICU Critical Care Technician"
@@ -48,11 +44,7 @@ date_format = "Jan 2006"
   date_start = "2009-05-15"
   date_end = "2013-01-03"
   description = """
-  Responsibilities include:
-  
-  * edit
-  * edit
-  * edit
+
   """
 
 
