@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "html5"
   icon_pack = "fab"
-  name = "HTML"
+  name = "HTML5"
   #description = "10%"
 
 [[feature]]
