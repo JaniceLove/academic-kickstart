@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Quality Assurance and Safety
+role: Data analyst
 
 # Organizations/Affiliations
 organizations:
